@@ -3,108 +3,108 @@
 ## 1. Inteligências Artificiais - Ferramentas e Aplicações
 
 - **Objetivo:** 
-  - Familiarizar os alunos com as principais ferramentas de IA e capacitá-los para aplicá-las em seus projetos.
+  - Meu objetivo aqui é familiarizar vocês com as principais ferramentas de IA e capacitá-los para aplicá-las em seus projetos.
 
 - **Conteúdo:**
   - **Ferramentas de IA:**
-    - CHATGPT, Claude, Gemini, Gamma, Mapify, V0
-    - Introdução a cada ferramenta e suas aplicações.
-    - Práticas de desenvolvimento com APIs dessas IAs.
+    - Vamos explorar ferramentas como CHATGPT, Claude, Gemini, Gamma, Mapify e V0.
+    - Farei uma introdução a cada uma dessas ferramentas e suas aplicações.
+    - Vamos praticar o desenvolvimento com as APIs dessas IAs.
     - **Exercícios:**
       - Criação de chatbots
       - Análises automáticas de texto e imagens
-      - Ferramentas de automação com as APIs.
+      - Uso de ferramentas de automação com as APIs.
   
   - **IDE Cursor:**
-    - Apresentação da IDE Cursor, funcionalidades e vantagens para IA e programação.
-    - Dicas de configuração e práticas para aumentar a produtividade.
+    - Vou apresentar a IDE Cursor, suas funcionalidades e vantagens para IA e programação.
+    - Compartilharei dicas de configuração e práticas para aumentar a produtividade.
 
 ---
 
 ## 2. Construção de Portfólio
 
 - **Objetivo:** 
-  - Preparar os alunos para construir um portfólio atraente para o mercado de IA e tecnologia.
+  - Quero preparar vocês para construir um portfólio atraente para o mercado de IA e tecnologia.
 
 - **Conteúdo:**
   - **Criação de um Site Portfólio:**
-    - Orientação sobre estrutura, conteúdo e organização de um site de portfólio.
-    - Como destacar projetos de IA e análise de dados.
+    - Vou orientar sobre a estrutura, conteúdo e organização de um site de portfólio.
+    - Mostrarei como destacar seus projetos de IA e análise de dados.
   
   - **GitHub Estruturado:**
-    - Melhorar a organização de repositórios e a documentação de projetos.
-    - Apresentação de práticas recomendadas para destacar habilidades.
+    - Vamos trabalhar na melhoria da organização de repositórios e na documentação de projetos.
+    - Apresentarei práticas recomendadas para destacar suas habilidades.
   
   - **LinkedIn Profissional:**
-    - Como utilizar o LinkedIn para compartilhar projetos e certificações.
-    - Estratégias para networking e visibilidade no setor de IA e tecnologia.
+    - Vou mostrar como utilizar o LinkedIn para compartilhar seus projetos e certificações.
+    - Discutiremos estratégias para networking e visibilidade no setor de IA e tecnologia.
 
 ---
 
 ## 3. Desenvolvimento de Projetos em Python (IA e Análise de Dados)
 
 - **Objetivo:** 
-  - Criar projetos práticos e avançados em Python focados em IA e análise de dados para fortalecer as habilidades dos alunos.
+  - Meu foco é criar projetos práticos e avançados em Python, focados em IA e análise de dados, para fortalecer suas habilidades.
 
 - **Conteúdo:**
   - **Projetos de IA:**
-    - Implementação de modelos simples e avançados em machine learning.
-    - Criação de pipelines de dados com ferramentas como Pandas e TensorFlow.
+    - Vamos implementar modelos simples e avançados em machine learning.
+    - Iremos criar pipelines de dados com ferramentas como Pandas e TensorFlow.
   
   - **Automação e Web Scraping:**
-    - Desenvolvimento de scripts de automação e coleta de dados com Web Scraping.
-    - Uso desses dados para análises preditivas.
+    - Vou ensinar o desenvolvimento de scripts de automação e coleta de dados com Web Scraping.
+    - Usaremos esses dados para análises preditivas.
   
   - **Análise de Dados:**
-    - Projetos de visualização de dados e insights com Python (usando matplotlib, seaborn e Plotly).
+    - Faremos projetos de visualização de dados e insights com Python, utilizando matplotlib, seaborn e Plotly.
 
 ---
 
 ## 4. Simulação de Entrevistas
 
 - **Objetivo:** 
-  - Preparar os alunos para entrevistas de emprego, com foco em IA e desenvolvimento.
+  - Quero preparar vocês para entrevistas de emprego, com foco em IA e desenvolvimento.
 
 - **Conteúdo:**
   - **Entrevistas Técnicas e de Lógica:**
-    - Práticas com perguntas técnicas e desafios de lógica e código.
+    - Vamos praticar com perguntas técnicas e desafios de lógica e código.
   
   - **Entrevistas Comportamentais:**
-    - Treinamento em técnicas de apresentação e narrativa de projetos pessoais.
+    - Farei um treinamento em técnicas de apresentação e narrativa de seus projetos pessoais.
   
   - **Feedbacks:**
-    - Sessões de feedback para identificar pontos de melhoria e aprimorar a confiança nas entrevistas.
+    - Teremos sessões de feedback para identificar pontos de melhoria e aprimorar a confiança de vocês nas entrevistas.
 
 ---
 
 ## 5. Treinamento de Performance nos Estudos
 
 - **Objetivo:** 
-  - Desenvolver métodos de estudo eficientes para aumentar o desempenho e a retenção de conhecimentos.
+  - Meu objetivo é desenvolver métodos de estudo eficientes para aumentar seu desempenho e a retenção de conhecimentos.
 
 - **Conteúdo:**
   - **Técnicas de Produtividade:**
-    - Aplicação da técnica Pomodoro e outros métodos para manter o foco.
+    - Vamos aplicar a técnica Pomodoro e outros métodos para manter o foco.
   
   - **Planejamento de Estudos:**
-    - Organização de metas de aprendizado e desenvolvimento de um cronograma personalizado.
+    - Farei uma organização de metas de aprendizado e ajudarei a desenvolver um cronograma personalizado.
   
   - **Práticas de Revisão:**
-    - Métodos de revisão ativa e espaçada para fixação dos conteúdos aprendidos.
+    - Vamos utilizar métodos de revisão ativa e espaçada para fixar os conteúdos aprendidos.
 
 ---
 
 ## 6. Empreendedorismo para Desenvolvedores
 
 - **Objetivo:** 
-  - Capacitar os alunos para identificar oportunidades e empreender na área de tecnologia.
+  - Quero capacitar vocês a identificar oportunidades e empreender na área de tecnologia.
 
 - **Conteúdo:**
   - **Desenvolvimento de Produtos Digitais:**
-    - Estratégias para desenvolver e lançar produtos digitais no mercado de IA.
+    - Vamos discutir estratégias para desenvolver e lançar produtos digitais no mercado de IA.
   
   - **Construção de Networking e Marketing Pessoal:**
-    - Como utilizar as redes sociais e LinkedIn para posicionar-se como autoridade.
+    - Vou ensinar como utilizar as redes sociais e o LinkedIn para se posicionar como autoridade.
   
   - **Modelos de Negócio em Tecnologia:**
-    - Exploração de modelos de negócio (freelancer, consultoria, startups) e como avaliar viabilidade.
+    - Iremos explorar diferentes modelos de negócio (freelancer, consultoria, startups) e como avaliar a viabilidade deles.
